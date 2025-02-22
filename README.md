@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hello! I'm Takaaki Kanda</h1>
 
-<!--
-**kandalog/kandalog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">I'm a software engineer working in Tokyo</h3>
 
-Here are some ideas to get you started:
+- 💻 I am currently using TypeScript (Vue), Ruby and etc at work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⭐️ My favorite are React, TypeScript.
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kandalog&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kandalog&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+## Language
+  
+[![My Skills](https://skillicons.dev/icons?i=js,ts,ruby,python,php)](https://skillicons.dev)
+## Frameworks and Library
+[![My Skills](https://skillicons.dev/icons?i=react,next,vue,nodejs,express,rails,laravel)
+## Tool and etc
+[![My Skills](https://skillicons.dev/icons?i=docker,mysql,git,github,linux,elasticsearch,aws,vscode,figma)
+
