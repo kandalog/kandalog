@@ -15,7 +15,7 @@
   
 [![My Skills](https://skillicons.dev/icons?i=js,ts,ruby,python,php)](https://skillicons.dev)
 ## Frameworks and Library
-[![My Skills](https://skillicons.dev/icons?i=react,next,vue,nodejs,express,rails,laravel)
+[![My Skills](https://skillicons.dev/icons?i=react,next,vue,nodejs,express,rails,laravel)](https://skillicons.dev)
 ## Tool and etc
-[![My Skills](https://skillicons.dev/icons?i=docker,mysql,git,github,linux,elasticsearch,aws,vscode,figma)
+[![My Skills](https://skillicons.dev/icons?i=docker,mysql,git,github,linux,elasticsearch,aws,vscode,figma)](https://skillicons.dev)
 
