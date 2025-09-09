@@ -20,5 +20,5 @@
 
 
 #### for me
-private ripository
-[API共通化 React JS Axios](https://github.com/kandalog/react-api-common-axios)
+private ripository  
+[react-api-common-axios](https://github.com/kandalog/react-api-common-axios)
