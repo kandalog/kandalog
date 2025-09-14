@@ -18,7 +18,3 @@
 ## Tool and etc
 [![My Skills](https://skillicons.dev/icons?i=docker,mysql,git,github,linux,elasticsearch,aws,vscode,figma)](https://skillicons.dev)
 
-
-#### for me
-private repository  
-[react-api-common-axios](https://github.com/kandalog/react-api-common-axios)
